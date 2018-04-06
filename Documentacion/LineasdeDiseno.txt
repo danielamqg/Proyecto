@@ -1,0 +1,6 @@
+Lineas de Diseño
+Lineamientos para el diseño
+Resolución de pantalla 1920 x 1080 ratio16 2,9
+Paleta de colores
+Reglas de diseño: Transiciones, botones, ventanas, huds, fonts.
+
